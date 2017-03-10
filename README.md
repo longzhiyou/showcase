@@ -22,4 +22,5 @@
  - [Redis应用场景](http://www.scienjus.com/redis-use-case/)
 - token
  - [RESTful登录设计（基于Spring及Redis的Token鉴权）](http://www.scienjus.com/restful-token-authorization/)
-- 
+- restful
+ - [我所认为的RESTful API最佳实践](http://www.scienjus.com/my-restful-api-best-practices/)
