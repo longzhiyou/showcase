@@ -20,5 +20,5 @@
 # 相关技术
 - redis
 - token
- - [WEB安全之Token浅谈](http://blog.csdn.net/sum_rain/article/details/37085771)
+ - [RESTful登录设计（基于Spring及Redis的Token鉴权）](http://blog.csdn.net/gebitan505/article/details/51614805)
 - 
