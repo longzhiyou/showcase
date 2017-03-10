@@ -19,6 +19,7 @@
 
 # 相关技术
 - redis
+ - [Redis应用场景](http://www.scienjus.com/redis-use-case/)
 - token
  - [RESTful登录设计（基于Spring及Redis的Token鉴权）](http://www.scienjus.com/restful-token-authorization/)
 - 
