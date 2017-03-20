@@ -1,7 +1,10 @@
 # 安全相关
 - jwt 
 - spring-security
-
+  - 权限相关
+    -  想要开启Spring方法级安全，你需要在已经添加了@Configuration注解的类上再添加@EnableGlobalMethodSecurity注解
+    -  加上 @PreAuthorize("hasAuthority('USER')") ，标明这个资源只能被拥有 USER 权限的用户访问
+  - [Spring Security在登录验证中增加额外数据（如验证码）](http://www.cnblogs.com/phoenix-smile/p/5666686.html)
 
 # 前端
 - angularjs
