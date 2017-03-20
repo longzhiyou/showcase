@@ -8,6 +8,7 @@
   - [Spring Security在登录验证中增加额外数据（如验证码）](http://www.cnblogs.com/phoenix-smile/p/5666686.html)
   - 参考文档有安全表达试的介绍,比如下面代表的意思:传入的联系人为当前的认证用户,才可以执行doSomething方法
 @PreAuthorize("#c.name == authentication.name")
+  -  [Spring Security（16）——基于表达式的权限控制](http://elim.iteye.com/blog/2247073)
 
 # 前端
 - angularjs
