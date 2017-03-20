@@ -1,5 +1,6 @@
 # 安全相关
 - jwt 
+- Spring Cloud Security
 - spring-security
   - 权限相关
     -  想要开启Spring方法级安全，你需要在已经添加了@Configuration注解的类上再添加@EnableGlobalMethodSecurity注解
